@@ -11,6 +11,10 @@ src: './pages/_template/intro-image.md'
 ---
 
 ---
+src: './pages/_template/center.md'
+---
+
+---
 src: './pages/_template/image-left.md'
 ---
 
