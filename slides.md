@@ -53,3 +53,7 @@ src: './pages/_template/images.md'
 ---
 src: './pages/_template/photo.md'
 ---
+
+---
+src: './pages/_template/code.md'
+---
