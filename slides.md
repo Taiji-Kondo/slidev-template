@@ -3,45 +3,45 @@ theme: apple-basic
 ---
 
 ---
-src: './pages/intro.md'
+src: './pages/_template/intro.md'
 ---
 
 ---
-src: './pages/intro-image.md'
+src: './pages/_template/intro-image.md'
 ---
 
 ---
-src: './pages/image-left.md'
+src: './pages/_template/image-left.md'
 ---
 
 ---
-src: './pages/image-right.md'
+src: './pages/_template/image-right.md'
 ---
 
 ---
-src: './pages/statement.md'
+src: './pages/_template/statement.md'
 ---
 
 ---
-src: './pages/bullets.md'
+src: './pages/_template/bullets.md'
 ---
 
 ---
-src: './pages/section.md'
+src: './pages/_template/section.md'
 ---
 
 ---
-src: './pages/fact.md'
+src: './pages/_template/fact.md'
 ---
 
 ---
-src: './pages/quote.md'
+src: './pages/_template/quote.md'
 ---
 
 ---
-src: './pages/images.md'
+src: './pages/_template/images.md'
 ---
 
 ---
-src: './pages/photo.md'
+src: './pages/_template/photo.md'
 ---
