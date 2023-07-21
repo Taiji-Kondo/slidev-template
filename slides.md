@@ -3,7 +3,11 @@ theme: apple-basic
 ---
 
 ---
-src: './pages/top.md'
+src: './pages/intro.md'
+---
+
+---
+src: './pages/intro-image.md'
 ---
 
 ---
