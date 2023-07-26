@@ -1,8 +1,5 @@
 ---
 theme: apple-basic
----
-
----
 src: './pages/_template/intro.md'
 ---
 
@@ -56,4 +53,8 @@ src: './pages/_template/photo.md'
 
 ---
 src: './pages/_template/code.md'
+---
+
+---
+src: './pages/_template/end.md'
 ---
